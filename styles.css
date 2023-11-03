@@ -3,18 +3,19 @@
 *{
 	margin:0px;
 	padding:0px;
+	box-sizing:border-box;
 }
 .item-1{
 	border:2px solid black;
 	height:100px;
 	width:100px;
 	background-color:red;
-	display:flex;
 }
 .holder{
 	display:flex;
 	justify-content:center;
 	align-items:center;
 	border:2px solid black;
+	height:200px;
 	
 }
