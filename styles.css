@@ -10,11 +10,13 @@
 	height:100px;
 	width:100px;
 	background-color:red;
+	position:center;
+	margin:auto;
+	margin-top:45px;
 }
 .holder{
-	display:flex;
-	justify-content:center;
-	align-items:center;
+	display:block;
+	
 	border:2px solid black;
 	height:200px;
 	
