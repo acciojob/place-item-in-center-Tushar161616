@@ -9,15 +9,15 @@
 	border:2px solid black;
 	height:100px;
 	width:100px;
-	background-color:red;
-	position:center;
-	margin:auto;
-	margin-top:45px;
-}
+/* 	background-color:red; */
+	}
 .holder{
-	display:block;
+	display:flex;
+	align-items:center;
+	justify-content:center;
 	
-	border:2px solid black;
-	height:200px;
+	width:100%;
+/* 	border:2px solid black; */
+	height:100%;
 	
 }
