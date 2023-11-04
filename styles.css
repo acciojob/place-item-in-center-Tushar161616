@@ -9,15 +9,14 @@
 	border:2px solid black;
 	height:100px;
 	width:100px;
+	margin:auto;
 /* 	background-color:red; */
 	}
 .holder{
-	display:flex;
-	align-items:center;
-	justify-content:center;
+	
 	
 	width:100%;
-/* 	border:2px solid black; */
+	border:2px solid black;
 	height:100%;
 	
 }
